@@ -40,7 +40,7 @@ Config.Fuel = "ps-fuel"
 
 -- Google Docs Link
 Config.sopLink = {
-    ['police'] = '',
+    ['police'] = 'https://docs.google.com/document/d/1FdZ4v0ufNemIeP0m1-xUFkJba6lrntr0vjh69k7Hv_U/edit#heading=h.9hnq5m4i9j7g',
     ['ambulance'] = '',
     ['bcso'] = '',
     ['doj'] = '',
